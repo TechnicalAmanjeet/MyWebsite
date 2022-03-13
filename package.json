@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/TechnicalAmanjeet/MyWebsite/issues"
   },
-  "homepage": "https://github.com/TechnicalAmanjeet/MyWebsite#readme"
+  "homepage": "https://github.com/TechnicalAmanjeet/MyWebsite#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.8.1"
+  }
 }
