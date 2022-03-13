@@ -4,7 +4,9 @@
   "description": "This will be my personal website. where i will write blog regularly and also will use this website for my YouTube purpose.",
   "main": "index.html",
   "scripts": {
-    "test": "npm run live"
+    "start": "npm run app",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "lite-server"
   },
   "repository": {
     "type": "git",
