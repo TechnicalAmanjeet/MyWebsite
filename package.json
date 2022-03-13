@@ -1,0 +1,19 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "This will be my personal website. where i will write blog regularly and also will use this website for my YouTube purpose.",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnicalAmanjeet/MyWebsite.git"
+  },
+  "author": "Technical Amanjeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnicalAmanjeet/MyWebsite/issues"
+  },
+  "homepage": "https://github.com/TechnicalAmanjeet/MyWebsite#readme"
+}
