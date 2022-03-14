@@ -1,9 +1,39 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+body{
+    padding: 70px 0 0 0;
+    z-index: 0;
+    background-color: black;
 }
 
 nav{
     background-color: rgb(73, 73, 131);
+}
+
+.navbar-brand{
+    font-size: 1.5em;
+}
+
+.breadcrumb{
+    background-color: rgb(233, 224, 240);
+    /* opacity: 0.6; */
+    color: red;
+}
+
+
+footer .social-media a{
+    font-size: 2em;
+    /* color: white; */
 }
