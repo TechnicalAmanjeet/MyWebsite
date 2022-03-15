@@ -15,7 +15,7 @@ a{
 body{
     padding: 70px 0 0 0;
     z-index: 0;
-    background-color: black;
+    /* background-color: black; */
 }
 
 nav{
@@ -32,6 +32,9 @@ nav{
     color: red;
 }
 
+.breadcrumb a{
+    font-size: 1em;
+}
 
 footer .social-media a{
     font-size: 2em;
